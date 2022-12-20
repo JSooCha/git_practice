@@ -18,8 +18,4 @@ secondYH : 장바구니 기능 추가
 
 secondYH : 좋아요 기능 추가
 
-serveman : 첫번째 연습 추가
-
-serveman : 두번째 연습 추가
-
 hello!!!!
